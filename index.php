@@ -108,14 +108,10 @@
                 <!-- Video Column -->
                 <div class="col-lg-5">
                     <div class="video-container">
-                        <!-- <h3 class="text-center mb-4">Watch Our Success Story</h3> -->
+
                         <div class="video-wrapper">
-                            <!-- Replace VIDEO_ID with your actual YouTube video ID -->
                             <iframe src="https://www.youtube.com/embed/ckCey8RZ0ao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
-                        <!-- <div class="text-center mt-3">
-                            <a href="#" class="btn btn-primary">View More Videos</a>
-                        </div> -->
                     </div>
                 </div>
             </div>
@@ -548,7 +544,6 @@
         <div class="container">
             <!-- Section Title -->
             <div class="section-title">
-                <!-- <div class="title-divider"></div> -->
                 <h2><span>Gallery</span></h2>
             </div>
 
@@ -786,10 +781,8 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script>
-        // Initialize Swiper
         var swiper = new Swiper(".teamSwiper", {
             slidesPerView: 4,
             spaceBetween: 30,
@@ -828,7 +821,6 @@
     </script>
 
     <script>
-        // Initialize Swiper
         var swiper = new Swiper(".testimonialsSwiper", {
             slidesPerView: 3,
             spaceBetween: 30,
