@@ -380,10 +380,8 @@ body {
 }
 
 .team-member {
-    /* background: white; */
     border-radius: 8px;
     overflow: hidden;
-    /* box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); */
     margin: 10px;
     border-radius: 35%;
     transition: transform 0.3s ease;
